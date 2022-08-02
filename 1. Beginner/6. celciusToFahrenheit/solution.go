@@ -8,6 +8,6 @@ func main() {
 }
 
 func tempcoverter(c int) int {
-	f := c*9/5 + 32
+	f := (c * 9 / 5) + 32
 	return f
 }
